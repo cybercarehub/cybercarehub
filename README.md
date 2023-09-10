@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Us:
 Welcome to CyberCare Hub, the ultimate destination for code enthusiasts and developers! Founded by Manuja Damsara, known as "stingbytx" in the GitHub CyberCare Hub is your go-to platform for uploading and sharing source code projects, ranging from web applications to mobile apps.<br>
 
 
@@ -11,6 +11,9 @@ Welcome to CyberCare Hub, the ultimate destination for code enthusiasts and deve
 ![](https://github-readme-stats.vercel.app/api?username=cybercarehub&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cybercarehub&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercarehub&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cybercarehub&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
